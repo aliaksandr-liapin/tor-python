@@ -1,0 +1,5 @@
+stem
+pysocks
+requests
+requests[socks]
+requests[security]
